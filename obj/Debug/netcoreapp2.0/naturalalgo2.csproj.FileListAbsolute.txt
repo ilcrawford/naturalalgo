@@ -1,0 +1,10 @@
+c:\Users\ilcra_000\Documents\naturalalgo2\bin\Debug\netcoreapp2.0\naturalalgo2.deps.json
+c:\Users\ilcra_000\Documents\naturalalgo2\bin\Debug\netcoreapp2.0\naturalalgo2.runtimeconfig.json
+c:\Users\ilcra_000\Documents\naturalalgo2\bin\Debug\netcoreapp2.0\naturalalgo2.runtimeconfig.dev.json
+c:\Users\ilcra_000\Documents\naturalalgo2\bin\Debug\netcoreapp2.0\naturalalgo2.dll
+c:\Users\ilcra_000\Documents\naturalalgo2\bin\Debug\netcoreapp2.0\naturalalgo2.pdb
+c:\Users\ilcra_000\Documents\naturalalgo2\obj\Debug\netcoreapp2.0\naturalalgo2.csproj.CoreCompileInputs.cache
+c:\Users\ilcra_000\Documents\naturalalgo2\obj\Debug\netcoreapp2.0\naturalalgo2.AssemblyInfoInputs.cache
+c:\Users\ilcra_000\Documents\naturalalgo2\obj\Debug\netcoreapp2.0\naturalalgo2.AssemblyInfo.cs
+c:\Users\ilcra_000\Documents\naturalalgo2\obj\Debug\netcoreapp2.0\naturalalgo2.dll
+c:\Users\ilcra_000\Documents\naturalalgo2\obj\Debug\netcoreapp2.0\naturalalgo2.pdb
